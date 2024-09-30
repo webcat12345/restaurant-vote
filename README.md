@@ -110,4 +110,5 @@ sudo docker-compose exec web python manage.py test
 [ResList.postman_collection.json](docs/ResList.postman_collection.json)
 
 ## HA Cloud Architecture Diagram
+[Diagram on azurediagrams.com](https://azurediagrams.com/VwCs539m)
 ![HA Cloud Diagram.png](docs/HA%20Cloud%20Diagram.png)
