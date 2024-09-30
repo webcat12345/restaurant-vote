@@ -97,7 +97,7 @@ Mobile app always sends build version in headers.
     - Restaurant Owner
         - username: rest_owner1
         - password: 123qwe!@#QWE
-6. Generate JWT Token from http://localhost:8000/token/ with username and password.
+6. Generate JWT Token from http://localhost:8000/api/token/ with username and password.
 
 7. Call APIs with Bearer Token Authentication using generated JWT Token.
 
